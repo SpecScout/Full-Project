@@ -40,7 +40,7 @@ SpecScout addresses this problem by organising smartphone information and presen
 | Original records | 1,074 |
 | Cleaned records | 789 |
 | Unique brands | 42 |
-| Cleaned columns | 17 |
+| Cleaned columns | 25 |
 | Dataset format | CSV |
 
 ### Important Dataset Attributes
